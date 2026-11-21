@@ -1,0 +1,233 @@
+[
+  {
+    "rank": 1,
+    "episode": "EP002",
+    "segments": [
+      {
+        "episode": "EP002",
+        "start": "00:00:15.800",
+        "end": "00:00:37.100"
+      }
+    ],
+    "duration_seconds": 21.3,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 15,
+    "cliffhanger_event": 26,
+    "hook": "LADY JULIANA (Trembling, Betrayed): \"You gave me your word before both our families.\"",
+    "cliffhanger": "LADY JULIANA (Choked with Tears): \"Surely you will not let him humiliate me like this?\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 2,
+    "episode": "EP003",
+    "segments": [
+      {
+        "episode": "EP003",
+        "start": "00:00:28.000",
+        "end": "00:01:28.000"
+      }
+    ],
+    "duration_seconds": 60.0,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 24,
+    "cliffhanger_event": 74,
+    "hook": "LADY JULIANA (Pained, Betrayed): \"I was humiliated by your family.\"",
+    "cliffhanger": "THE FORMER GROOM (Frantic, Shouting): \"What are you waiting for?! He's only one man!\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 3,
+    "episode": "EP003",
+    "segments": [
+      {
+        "episode": "EP003",
+        "start": "00:01:12.800",
+        "end": "00:01:52.500"
+      }
+    ],
+    "duration_seconds": 39.7,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 62,
+    "cliffhanger_event": 94,
+    "hook": "NOBLE MATRIARCH (Indignant, Screeching): \"And who are you to give orders in my family's chapel?!\"",
+    "cliffhanger": "LADY JULIANA (Whispering, Bewildered): \"Why are you doing this?\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 4,
+    "episode": "EP007",
+    "segments": [
+      {
+        "episode": "EP007",
+        "start": "00:01:08.600",
+        "end": "00:01:30.000"
+      }
+    ],
+    "duration_seconds": 21.4,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 35,
+    "cliffhanger_event": 45,
+    "hook": "GERALD (V.O.) (Snarl): \"Where is that beggar husband?\"",
+    "cliffhanger": "GERALD (Trembling, Trying to Save Face): \"What are you staring at?\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 5,
+    "episode": "EP011",
+    "segments": [
+      {
+        "episode": "EP011",
+        "start": "00:00:16.800",
+        "end": "00:00:37.100"
+      }
+    ],
+    "duration_seconds": 20.3,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 16,
+    "cliffhanger_event": 32,
+    "hook": "GERALD (Aggressive, Snarl): \"Your husband stole my gold pocket watch!\"",
+    "cliffhanger": "GERALD (Shouting, Dramatic): \"You hear that? He threatens me again!\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 6,
+    "episode": "EP011",
+    "segments": [
+      {
+        "episode": "EP011",
+        "start": "00:00:16.800",
+        "end": "00:01:16.800"
+      }
+    ],
+    "duration_seconds": 60.0,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 16,
+    "cliffhanger_event": 65,
+    "hook": "GERALD (Aggressive, Snarl): \"Your husband stole my gold pocket watch!\"",
+    "cliffhanger": "GERALD (Scoffing, Sinister): \"Happy?\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 7,
+    "episode": "EP024",
+    "segments": [
+      {
+        "episode": "EP024",
+        "start": "00:00:04.000",
+        "end": "00:00:26.500"
+      }
+    ],
+    "duration_seconds": 22.5,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 6,
+    "cliffhanger_event": 17,
+    "hook": "NOBLEWOMAN (Sharp, Demanding): \"Who are you?\"",
+    "cliffhanger": "NOBLEWOMAN (Scoffing, Cruel): \"You thought? A new maid thinks she knows better than the physicians?\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 8,
+    "episode": "EP028",
+    "segments": [
+      {
+        "episode": "EP028",
+        "start": "00:00:45.600",
+        "end": "00:01:15.100"
+      }
+    ],
+    "duration_seconds": 29.5,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 36,
+    "cliffhanger_event": 56,
+    "hook": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+    "cliffhanger": "CATHERINE (Insolent, Sneering): \"Where did a gutter rat like you find a silver locket?\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 9,
+    "episode": "EP036",
+    "segments": [
+      {
+        "episode": "EP036",
+        "start": "00:01:36.500",
+        "end": "00:02:06.800"
+      }
+    ],
+    "duration_seconds": 30.3,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 60,
+    "cliffhanger_event": 76,
+    "hook": "ALEXANDER (Desperate): \"Then where is she?\"",
+    "cliffhanger": "ALEXANDER (Horrified): \"Juliana... is in a cell?\"",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 10,
+    "episode": "EP004",
+    "segments": [
+      {
+        "episode": "EP004",
+        "start": "00:00:34.000",
+        "end": "00:01:24.000"
+      }
+    ],
+    "duration_seconds": 50.0,
+    "score": 60.0,
+    "hook_score": 3,
+    "cliffhanger_score": 2,
+    "clarity_score": 2,
+    "hook_event": 29,
+    "cliffhanger_event": 60,
+    "hook": "MYSTERIOUS BEARDED MAN (Firm, Sincere): \"A woman who was betrayed.\"",
+    "cliffhanger": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling.",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 11,
+    "episode": "EP031",
+    "segments": [
+      {
+        "episode": "EP031",
+        "start": "00:02:10.800",
+        "end": "00:02:31.200"
+      }
+    ],
+    "duration_seconds": 20.4,
+    "score": 60.0,
+    "hook_score": 3,
+    "cliffhanger_score": 2,
+    "clarity_score": 2,
+    "hook_event": 71,
+    "cliffhanger_event": 83,
+    "hook": "CATHERINE (Enraged Scream): \"Enough!\"",
+    "cliffhanger": "Medium close-up of Catherine slowly driving the glowing branding tip into the spine of the open book, watching the embers consume the pages.",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  }
+]

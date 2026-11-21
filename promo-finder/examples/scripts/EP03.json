@@ -1,0 +1,10 @@
+{
+  "episode": "EP03",
+  "events": [
+    {"start": 0, "end": 5, "text": "RHEA: You're fired. Please hand me your key."},
+    {"start": 5, "end": 10, "text": "OWEN: Yes. I left it next to the till."},
+    {"start": 10, "end": 15, "text": "[Rhea sweeps the empty storeroom.]"},
+    {"start": 15, "end": 22, "text": "OWEN: What time does the bus come?"},
+    {"start": 22, "end": 25, "text": "RHEA: Quarter past five."}
+  ]
+}

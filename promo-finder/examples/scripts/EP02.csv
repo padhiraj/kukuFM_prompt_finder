@@ -1,0 +1,10 @@
+start,end,text
+0,4,[Maya waits outside the town hall.]
+4,8,[Adrian takes an envelope from the post box.]
+8,11,MAYA: You forged my signature.
+11,16,ADRIAN: The sale goes through at noon. You were supposed to be across town.
+16,21,MAYA: That's my mother's house. You can't sell it.
+21,28,[Maya opens the envelope and sees a second signature.]
+28,34,MAYA: Why did my mother sign this last night?
+34,39,[The clerk opens the door. Maya's mother walks out holding the keys.]
+39,46,MOTHER: I signed it to stop the auction. The buyer is me.

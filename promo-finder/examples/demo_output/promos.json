@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 1,
+    "episode": "EP03",
+    "segments": [
+      {
+        "episode": "EP03",
+        "start": "00:00:00.000",
+        "end": "00:00:22.000"
+      }
+    ],
+    "duration_seconds": 22.0,
+    "score": 68.75,
+    "hook_score": 3,
+    "cliffhanger_score": 3,
+    "clarity_score": 2,
+    "hook_event": 1,
+    "cliffhanger_event": 4,
+    "hook": "RHEA: You're fired. Please hand me your key.",
+    "cliffhanger": "OWEN: What time does the bus come?",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 2,
+    "episode": "EP01",
+    "segments": [
+      {
+        "episode": "EP01",
+        "start": "00:00:08.000",
+        "end": "00:00:49.000"
+      }
+    ],
+    "duration_seconds": 41.0,
+    "score": 60.0,
+    "hook_score": 3,
+    "cliffhanger_score": 2,
+    "clarity_score": 2,
+    "hook_event": 3,
+    "cliffhanger_event": 11,
+    "hook": "CLARA: Give me a minute. I'm waiting for my sister.",
+    "cliffhanger": "[Ben unzips the case. A phone starts to ring inside.]",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 3,
+    "episode": "EP02",
+    "segments": [
+      {
+        "episode": "EP02",
+        "start": "00:00:08.000",
+        "end": "00:00:28.000"
+      }
+    ],
+    "duration_seconds": 20.0,
+    "score": 60.0,
+    "hook_score": 3,
+    "cliffhanger_score": 2,
+    "clarity_score": 2,
+    "hook_event": 3,
+    "cliffhanger_event": 6,
+    "hook": "MAYA: You forged my signature.",
+    "cliffhanger": "[Maya opens the envelope and sees a second signature.]",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  },
+  {
+    "rank": 4,
+    "episode": "EP02",
+    "segments": [
+      {
+        "episode": "EP02",
+        "start": "00:00:08.000",
+        "end": "00:00:39.000"
+      }
+    ],
+    "duration_seconds": 31.0,
+    "score": 60.0,
+    "hook_score": 3,
+    "cliffhanger_score": 2,
+    "clarity_score": 2,
+    "hook_event": 3,
+    "cliffhanger_event": 8,
+    "hook": "MAYA: You forged my signature.",
+    "cliffhanger": "[The clerk opens the door. Maya's mother walks out holding the keys.]",
+    "why": "The opening matches a conflict cue and the final beat matches a suspense cue."
+  }
+]

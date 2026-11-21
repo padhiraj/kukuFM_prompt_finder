@@ -1,0 +1,5 @@
+rank,episode,start,end,duration_seconds,score,hook_score,cliffhanger_score,clarity_score,hook,cliffhanger,why
+1,EP03,00:00:00.000,00:00:22.000,22.0,68.75,3,3,2,RHEA: You're fired. Please hand me your key.,OWEN: What time does the bus come?,The opening matches a conflict cue and the final beat matches a suspense cue.
+2,EP01,00:00:08.000,00:00:49.000,41.0,60.0,3,2,2,CLARA: Give me a minute. I'm waiting for my sister.,[Ben unzips the case. A phone starts to ring inside.],The opening matches a conflict cue and the final beat matches a suspense cue.
+3,EP02,00:00:08.000,00:00:28.000,20.0,60.0,3,2,2,MAYA: You forged my signature.,[Maya opens the envelope and sees a second signature.],The opening matches a conflict cue and the final beat matches a suspense cue.
+4,EP02,00:00:08.000,00:00:39.000,31.0,60.0,3,2,2,MAYA: You forged my signature.,[The clerk opens the door. Maya's mother walks out holding the keys.],The opening matches a conflict cue and the final beat matches a suspense cue.

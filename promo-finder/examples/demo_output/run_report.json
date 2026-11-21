@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "engine": "rules",
+    "model": null,
+    "shortlist": null,
+    "expected_episodes": 3,
+    "weights": {
+      "hook_score": 40,
+      "cliffhanger_score": 35,
+      "clarity_score": 25
+    }
+  },
+  "episode_count": 3,
+  "failed_episode_count": 0,
+  "partial_episode_count": 0,
+  "ranked_promo_count": 4,
+  "episodes": [
+    {
+      "file": "EP01.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [],
+      "episode": "EP01",
+      "events": 13,
+      "estimated_event_ends": 0,
+      "legal_candidates": 34,
+      "accepted_before_deduplication": 2,
+      "seconds": 0.002
+    },
+    {
+      "file": "EP02.csv",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [],
+      "episode": "EP02",
+      "events": 9,
+      "estimated_event_ends": 0,
+      "legal_candidates": 16,
+      "accepted_before_deduplication": 2,
+      "seconds": 0.001
+    },
+    {
+      "file": "EP03.json",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [],
+      "episode": "EP03",
+      "events": 5,
+      "estimated_event_ends": 0,
+      "legal_candidates": 3,
+      "accepted_before_deduplication": 1,
+      "seconds": 0.0
+    }
+  ]
+}

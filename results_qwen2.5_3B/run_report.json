@@ -1,0 +1,2171 @@
+{
+  "settings": {
+    "engine": "ollama",
+    "model": "qwen2.5:3b",
+    "shortlist": 4,
+    "expected_episodes": 50,
+    "weights": {
+      "hook_score": 40,
+      "cliffhanger_score": 35,
+      "clarity_score": 25
+    }
+  },
+  "episode_count": 50,
+  "failed_episode_count": 0,
+  "partial_episode_count": 0,
+  "ranked_promo_count": 104,
+  "episodes": [
+    {
+      "file": "episode-001-Episode 1671703.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 14700,
+          "completion_tokens": 31,
+          "seconds": 8.814790512
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1140,
+          "completion_tokens": 158,
+          "seconds": 2.235460335
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1813,
+          "completion_tokens": 163,
+          "seconds": 2.233444073
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1118,
+          "completion_tokens": 174,
+          "seconds": 2.172523302
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1456,
+          "completion_tokens": 156,
+          "seconds": 2.085437831
+        }
+      ],
+      "episode": "EP001",
+      "events": 95,
+      "estimated_event_ends": 0,
+      "legal_candidates": 337,
+      "accepted_before_deduplication": 4,
+      "seconds": 17.65
+    },
+    {
+      "file": "episode-002-Episode 1671704.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 11727,
+          "completion_tokens": 35,
+          "seconds": 3.584746025
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2645,
+          "completion_tokens": 152,
+          "seconds": 2.466011227
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1165,
+          "completion_tokens": 159,
+          "seconds": 2.019790907
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1581,
+          "completion_tokens": 152,
+          "seconds": 2.061110458
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2065,
+          "completion_tokens": 155,
+          "seconds": 2.14073016
+        }
+      ],
+      "episode": "EP002",
+      "events": 74,
+      "estimated_event_ends": 0,
+      "legal_candidates": 270,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.353
+    },
+    {
+      "file": "episode-003-Episode 1671705.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8194,
+          "completion_tokens": 28,
+          "seconds": 2.616803889
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1089,
+          "completion_tokens": 156,
+          "seconds": 2.196288336
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1036,
+          "completion_tokens": 153,
+          "seconds": 1.915019995
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1208,
+          "completion_tokens": 164,
+          "seconds": 2.121975801
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1323,
+          "completion_tokens": 157,
+          "seconds": 2.015235675
+        }
+      ],
+      "episode": "EP003",
+      "events": 118,
+      "estimated_event_ends": 0,
+      "legal_candidates": 386,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.955
+    },
+    {
+      "file": "episode-004-Episode 1671706.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8194,
+          "completion_tokens": 28,
+          "seconds": 2.698238451
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1376,
+          "completion_tokens": 174,
+          "seconds": 2.428007656
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1760,
+          "completion_tokens": 200,
+          "seconds": 2.555079747
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2272,
+          "completion_tokens": 140,
+          "seconds": 2.104201893
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2588,
+          "completion_tokens": 164,
+          "seconds": 2.404071248
+        }
+      ],
+      "episode": "EP004",
+      "events": 110,
+      "estimated_event_ends": 0,
+      "legal_candidates": 391,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.289
+    },
+    {
+      "file": "episode-005-Episode 1671707.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8821,
+          "completion_tokens": 35,
+          "seconds": 2.759608143
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 924,
+          "completion_tokens": 161,
+          "seconds": 2.233878105
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1216,
+          "completion_tokens": 156,
+          "seconds": 2.025820171
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1639,
+          "completion_tokens": 158,
+          "seconds": 2.074036862
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1884,
+          "completion_tokens": 145,
+          "seconds": 2.088044799
+        }
+      ],
+      "episode": "EP005",
+      "events": 62,
+      "estimated_event_ends": 0,
+      "legal_candidates": 189,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.261
+    },
+    {
+      "file": "episode-006-Episode 1671708.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 12871,
+          "completion_tokens": 35,
+          "seconds": 4.453139167
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1112,
+          "completion_tokens": 163,
+          "seconds": 2.346157368
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1670,
+          "completion_tokens": 166,
+          "seconds": 2.312322304
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2077,
+          "completion_tokens": 150,
+          "seconds": 2.07838151
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2610,
+          "completion_tokens": 162,
+          "seconds": 2.42569786
+        }
+      ],
+      "episode": "EP006",
+      "events": 97,
+      "estimated_event_ends": 0,
+      "legal_candidates": 281,
+      "accepted_before_deduplication": 4,
+      "seconds": 13.717
+    },
+    {
+      "file": "episode-007-Episode 1671709.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8363,
+          "completion_tokens": 35,
+          "seconds": 2.624578781
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1622,
+          "completion_tokens": 145,
+          "seconds": 2.066130996
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1878,
+          "completion_tokens": 148,
+          "seconds": 2.012299007
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1038,
+          "completion_tokens": 188,
+          "seconds": 2.259898604
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1387,
+          "completion_tokens": 148,
+          "seconds": 1.956311571
+        }
+      ],
+      "episode": "EP007",
+      "events": 58,
+      "estimated_event_ends": 0,
+      "legal_candidates": 185,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.007
+    },
+    {
+      "file": "episode-008-Episode 1671710.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 7850,
+          "completion_tokens": 35,
+          "seconds": 2.406892808
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1309,
+          "completion_tokens": 155,
+          "seconds": 2.047042042
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1687,
+          "completion_tokens": 153,
+          "seconds": 2.117553571
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2098,
+          "completion_tokens": 170,
+          "seconds": 2.378668118
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1258,
+          "completion_tokens": 153,
+          "seconds": 1.987074735
+        }
+      ],
+      "episode": "EP008",
+      "events": 63,
+      "estimated_event_ends": 0,
+      "legal_candidates": 161,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.024
+    },
+    {
+      "file": "episode-009-Episode 1671711.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 11739,
+          "completion_tokens": 30,
+          "seconds": 3.671777323
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1188,
+          "completion_tokens": 138,
+          "seconds": 1.943564151
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1140,
+          "completion_tokens": 158,
+          "seconds": 1.982665822
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1476,
+          "completion_tokens": 159,
+          "seconds": 2.146211022
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1538,
+          "completion_tokens": 157,
+          "seconds": 2.135415076
+        }
+      ],
+      "episode": "EP009",
+      "events": 89,
+      "estimated_event_ends": 0,
+      "legal_candidates": 244,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.011
+    },
+    {
+      "file": "episode-010-Episode 1671712.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 9115,
+          "completion_tokens": 35,
+          "seconds": 2.833628766
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1044,
+          "completion_tokens": 165,
+          "seconds": 2.181797674
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1435,
+          "completion_tokens": 228,
+          "seconds": 3.217871241
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1834,
+          "completion_tokens": 182,
+          "seconds": 2.47579728
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2065,
+          "completion_tokens": 171,
+          "seconds": 2.34608912
+        }
+      ],
+      "episode": "EP010",
+      "events": 60,
+      "estimated_event_ends": 0,
+      "legal_candidates": 214,
+      "accepted_before_deduplication": 4,
+      "seconds": 13.135
+    },
+    {
+      "file": "episode-011-Episode 1671713.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 10663,
+          "completion_tokens": 35,
+          "seconds": 3.321577116
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2526,
+          "completion_tokens": 139,
+          "seconds": 2.419212591
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1253,
+          "completion_tokens": 162,
+          "seconds": 2.108449144
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1594,
+          "completion_tokens": 206,
+          "seconds": 2.606701379
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2067,
+          "completion_tokens": 127,
+          "seconds": 1.893568814
+        }
+      ],
+      "episode": "EP011",
+      "events": 85,
+      "estimated_event_ends": 0,
+      "legal_candidates": 218,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.429
+    },
+    {
+      "file": "episode-012-Episode 1671714.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 7575,
+          "completion_tokens": 35,
+          "seconds": 2.442605009
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2274,
+          "completion_tokens": 166,
+          "seconds": 2.591875568
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 909,
+          "completion_tokens": 185,
+          "seconds": 2.245216425
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2109,
+          "completion_tokens": 154,
+          "seconds": 2.145126461
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1040,
+          "completion_tokens": 151,
+          "seconds": 1.920237945
+        }
+      ],
+      "episode": "EP012",
+      "events": 55,
+      "estimated_event_ends": 0,
+      "legal_candidates": 161,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.438
+    },
+    {
+      "file": "episode-013-Episode 1671715.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 9941,
+          "completion_tokens": 35,
+          "seconds": 3.0426395
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1174,
+          "completion_tokens": 168,
+          "seconds": 2.213175266
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1187,
+          "completion_tokens": 155,
+          "seconds": 1.998565651
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1473,
+          "completion_tokens": 162,
+          "seconds": 2.162973296
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1528,
+          "completion_tokens": 160,
+          "seconds": 2.092023526
+        }
+      ],
+      "episode": "EP013",
+      "events": 75,
+      "estimated_event_ends": 0,
+      "legal_candidates": 209,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.59
+    },
+    {
+      "file": "episode-014-Episode 1671716.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 6850,
+          "completion_tokens": 33,
+          "seconds": 2.160313871
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1118,
+          "completion_tokens": 177,
+          "seconds": 2.267450847
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 957,
+          "completion_tokens": 147,
+          "seconds": 1.834287157
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 860,
+          "completion_tokens": 156,
+          "seconds": 1.872964491
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 951,
+          "completion_tokens": 169,
+          "seconds": 2.019312143
+        }
+      ],
+      "episode": "EP014",
+      "events": 51,
+      "estimated_event_ends": 0,
+      "legal_candidates": 153,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.231
+    },
+    {
+      "file": "episode-015-Episode 1671717.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 7439,
+          "completion_tokens": 35,
+          "seconds": 2.316229016
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1025,
+          "completion_tokens": 169,
+          "seconds": 2.195070892
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1263,
+          "completion_tokens": 166,
+          "seconds": 2.127591816
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1448,
+          "completion_tokens": 166,
+          "seconds": 2.277503245
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 966,
+          "completion_tokens": 177,
+          "seconds": 2.167817285
+        }
+      ],
+      "episode": "EP015",
+      "events": 55,
+      "estimated_event_ends": 0,
+      "legal_candidates": 159,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.16
+    },
+    {
+      "file": "episode-016-Episode 1671718.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 7217,
+          "completion_tokens": 35,
+          "seconds": 2.314743689
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1133,
+          "completion_tokens": 171,
+          "seconds": 2.28845771
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1466,
+          "completion_tokens": 145,
+          "seconds": 1.946029739
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1518,
+          "completion_tokens": 164,
+          "seconds": 2.142622979
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 971,
+          "completion_tokens": 155,
+          "seconds": 1.932988413
+        }
+      ],
+      "episode": "EP016",
+      "events": 64,
+      "estimated_event_ends": 0,
+      "legal_candidates": 140,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.707
+    },
+    {
+      "file": "episode-017-Episode 1671719.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 10501,
+          "completion_tokens": 35,
+          "seconds": 3.266032386
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1099,
+          "completion_tokens": 175,
+          "seconds": 2.48675369
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1311,
+          "completion_tokens": 173,
+          "seconds": 2.216327728
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1605,
+          "completion_tokens": 225,
+          "seconds": 2.909167368
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1945,
+          "completion_tokens": 224,
+          "seconds": 2.941608725
+        }
+      ],
+      "episode": "EP017",
+      "events": 75,
+      "estimated_event_ends": 0,
+      "legal_candidates": 229,
+      "accepted_before_deduplication": 4,
+      "seconds": 13.905
+    },
+    {
+      "file": "episode-018-Episode 1671720.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 11505,
+          "completion_tokens": 31,
+          "seconds": 3.518583757
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1577,
+          "completion_tokens": 150,
+          "seconds": 2.145894894
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1123,
+          "completion_tokens": 133,
+          "seconds": 1.714622038
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1007,
+          "completion_tokens": 162,
+          "seconds": 1.989749849
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1283,
+          "completion_tokens": 149,
+          "seconds": 1.943357017
+        }
+      ],
+      "episode": "EP018",
+      "events": 81,
+      "estimated_event_ends": 0,
+      "legal_candidates": 253,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.411
+    },
+    {
+      "file": "episode-019-Episode 1671721.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 9350,
+          "completion_tokens": 35,
+          "seconds": 3.024606957
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1138,
+          "completion_tokens": 227,
+          "seconds": 3.005830049
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1388,
+          "completion_tokens": 167,
+          "seconds": 2.138328535
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1748,
+          "completion_tokens": 164,
+          "seconds": 2.18694682
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1900,
+          "completion_tokens": 171,
+          "seconds": 2.392558563
+        }
+      ],
+      "episode": "EP019",
+      "events": 63,
+      "estimated_event_ends": 0,
+      "legal_candidates": 200,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.833
+    },
+    {
+      "file": "episode-020-Episode 1671722.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 9577,
+          "completion_tokens": 35,
+          "seconds": 3.03334919
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1193,
+          "completion_tokens": 156,
+          "seconds": 2.379297355
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1783,
+          "completion_tokens": 150,
+          "seconds": 2.043674776
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1021,
+          "completion_tokens": 168,
+          "seconds": 2.06369786
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1363,
+          "completion_tokens": 152,
+          "seconds": 2.096810637
+        }
+      ],
+      "episode": "EP020",
+      "events": 68,
+      "estimated_event_ends": 0,
+      "legal_candidates": 203,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.71
+    },
+    {
+      "file": "episode-021-Episode 1678574.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8328,
+          "completion_tokens": 35,
+          "seconds": 2.564464968
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1010,
+          "completion_tokens": 159,
+          "seconds": 2.232582078
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1411,
+          "completion_tokens": 167,
+          "seconds": 2.145544959
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1744,
+          "completion_tokens": 171,
+          "seconds": 2.277675575
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1080,
+          "completion_tokens": 186,
+          "seconds": 2.289434638
+        }
+      ],
+      "episode": "EP021",
+      "events": 76,
+      "estimated_event_ends": 0,
+      "legal_candidates": 135,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.576
+    },
+    {
+      "file": "episode-022-Episode 1678575.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 11420,
+          "completion_tokens": 29,
+          "seconds": 3.465620611
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 931,
+          "completion_tokens": 161,
+          "seconds": 2.16939111
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 984,
+          "completion_tokens": 147,
+          "seconds": 1.812431678
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1535,
+          "completion_tokens": 167,
+          "seconds": 2.164791499
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1992,
+          "completion_tokens": 162,
+          "seconds": 2.208690005
+        }
+      ],
+      "episode": "EP022",
+      "events": 81,
+      "estimated_event_ends": 0,
+      "legal_candidates": 251,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.89
+    },
+    {
+      "file": "episode-023-Episode 1678576.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 9320,
+          "completion_tokens": 35,
+          "seconds": 3.059140027
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 901,
+          "completion_tokens": 199,
+          "seconds": 2.595413317
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1195,
+          "completion_tokens": 152,
+          "seconds": 1.954315319
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1435,
+          "completion_tokens": 191,
+          "seconds": 2.408815696
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1603,
+          "completion_tokens": 167,
+          "seconds": 2.189794873
+        }
+      ],
+      "episode": "EP023",
+      "events": 67,
+      "estimated_event_ends": 0,
+      "legal_candidates": 208,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.311
+    },
+    {
+      "file": "episode-024-Episode 1678577.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8560,
+          "completion_tokens": 35,
+          "seconds": 2.671390847
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1357,
+          "completion_tokens": 146,
+          "seconds": 2.164134926
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1643,
+          "completion_tokens": 142,
+          "seconds": 1.911811607
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1706,
+          "completion_tokens": 145,
+          "seconds": 2.062285124
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2185,
+          "completion_tokens": 167,
+          "seconds": 2.446061764
+        }
+      ],
+      "episode": "EP024",
+      "events": 69,
+      "estimated_event_ends": 0,
+      "legal_candidates": 171,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.335
+    },
+    {
+      "file": "episode-025-Episode 1678578.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 15062,
+          "completion_tokens": 35,
+          "seconds": 5.024148974
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 831,
+          "completion_tokens": 160,
+          "seconds": 2.098133252
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1083,
+          "completion_tokens": 158,
+          "seconds": 1.98456676
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 992,
+          "completion_tokens": 177,
+          "seconds": 2.17668375
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1060,
+          "completion_tokens": 154,
+          "seconds": 1.976817919
+        }
+      ],
+      "episode": "EP025",
+      "events": 95,
+      "estimated_event_ends": 0,
+      "legal_candidates": 351,
+      "accepted_before_deduplication": 4,
+      "seconds": 13.35
+    },
+    {
+      "file": "episode-026-Episode 1678579.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 7711,
+          "completion_tokens": 35,
+          "seconds": 2.452628728
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 648,
+          "completion_tokens": 162,
+          "seconds": 2.086414652
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 834,
+          "completion_tokens": 154,
+          "seconds": 1.812664623
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1145,
+          "completion_tokens": 160,
+          "seconds": 2.023156506
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1432,
+          "completion_tokens": 166,
+          "seconds": 2.221061651
+        }
+      ],
+      "episode": "EP026",
+      "events": 51,
+      "estimated_event_ends": 0,
+      "legal_candidates": 171,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.691
+    },
+    {
+      "file": "episode-027-Episode 1678580.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 15932,
+          "completion_tokens": 35,
+          "seconds": 5.197985296
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1121,
+          "completion_tokens": 158,
+          "seconds": 2.184798503
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 954,
+          "completion_tokens": 173,
+          "seconds": 2.11785614
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1431,
+          "completion_tokens": 180,
+          "seconds": 2.36709599
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1180,
+          "completion_tokens": 159,
+          "seconds": 2.035048615
+        }
+      ],
+      "episode": "EP027",
+      "events": 95,
+      "estimated_event_ends": 0,
+      "legal_candidates": 379,
+      "accepted_before_deduplication": 4,
+      "seconds": 13.995
+    },
+    {
+      "file": "episode-028-Episode 1678581.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 15473,
+          "completion_tokens": 35,
+          "seconds": 5.137744798
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1180,
+          "completion_tokens": 155,
+          "seconds": 2.435208119
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1050,
+          "completion_tokens": 159,
+          "seconds": 2.03956524
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1331,
+          "completion_tokens": 161,
+          "seconds": 2.121349685
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2040,
+          "completion_tokens": 150,
+          "seconds": 2.182595228
+        }
+      ],
+      "episode": "EP028",
+      "events": 96,
+      "estimated_event_ends": 0,
+      "legal_candidates": 364,
+      "accepted_before_deduplication": 4,
+      "seconds": 14.024
+    },
+    {
+      "file": "episode-029-Episode 1678582.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 11280,
+          "completion_tokens": 31,
+          "seconds": 3.459282026
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 849,
+          "completion_tokens": 171,
+          "seconds": 2.192319052
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1172,
+          "completion_tokens": 147,
+          "seconds": 1.863861268
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1542,
+          "completion_tokens": 180,
+          "seconds": 2.312131013
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1997,
+          "completion_tokens": 157,
+          "seconds": 2.225892541
+        }
+      ],
+      "episode": "EP029",
+      "events": 74,
+      "estimated_event_ends": 0,
+      "legal_candidates": 264,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.131
+    },
+    {
+      "file": "episode-030-Episode 1678583.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 11877,
+          "completion_tokens": 27,
+          "seconds": 3.722366579
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 846,
+          "completion_tokens": 201,
+          "seconds": 2.751357977
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 900,
+          "completion_tokens": 156,
+          "seconds": 1.884832346
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1667,
+          "completion_tokens": 182,
+          "seconds": 2.400466681
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1916,
+          "completion_tokens": 158,
+          "seconds": 2.215500086
+        }
+      ],
+      "episode": "EP030",
+      "events": 71,
+      "estimated_event_ends": 0,
+      "legal_candidates": 283,
+      "accepted_before_deduplication": 4,
+      "seconds": 13.067
+    },
+    {
+      "file": "episode-031-Episode 1681364.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 14188,
+          "completion_tokens": 35,
+          "seconds": 4.615327658
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1041,
+          "completion_tokens": 150,
+          "seconds": 2.091292322
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1319,
+          "completion_tokens": 151,
+          "seconds": 2.045870978
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1597,
+          "completion_tokens": 156,
+          "seconds": 2.080355352
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2010,
+          "completion_tokens": 143,
+          "seconds": 2.032070997
+        }
+      ],
+      "episode": "EP031",
+      "events": 87,
+      "estimated_event_ends": 0,
+      "legal_candidates": 330,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.937
+    },
+    {
+      "file": "episode-032-Episode 1681365.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 16228,
+          "completion_tokens": 35,
+          "seconds": 5.336492029
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1115,
+          "completion_tokens": 164,
+          "seconds": 2.289657033
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1548,
+          "completion_tokens": 141,
+          "seconds": 1.873682266
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1958,
+          "completion_tokens": 167,
+          "seconds": 2.261408708
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2305,
+          "completion_tokens": 157,
+          "seconds": 2.248593712
+        }
+      ],
+      "episode": "EP032",
+      "events": 117,
+      "estimated_event_ends": 0,
+      "legal_candidates": 345,
+      "accepted_before_deduplication": 4,
+      "seconds": 14.1
+    },
+    {
+      "file": "episode-033-Episode 1681366.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8194,
+          "completion_tokens": 19,
+          "seconds": 2.568397089
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1033,
+          "completion_tokens": 162,
+          "seconds": 2.142813125
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1081,
+          "completion_tokens": 164,
+          "seconds": 2.046218166
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1133,
+          "completion_tokens": 178,
+          "seconds": 2.232466423
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1189,
+          "completion_tokens": 178,
+          "seconds": 2.246369389
+        }
+      ],
+      "episode": "EP033",
+      "events": 99,
+      "estimated_event_ends": 0,
+      "legal_candidates": 394,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.31
+    },
+    {
+      "file": "episode-034-Episode 1681367.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8194,
+          "completion_tokens": 28,
+          "seconds": 2.667071306
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 914,
+          "completion_tokens": 149,
+          "seconds": 2.065667744
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 976,
+          "completion_tokens": 147,
+          "seconds": 1.843040525
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1039,
+          "completion_tokens": 163,
+          "seconds": 2.01420213
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 892,
+          "completion_tokens": 159,
+          "seconds": 1.928779145
+        }
+      ],
+      "episode": "EP034",
+      "events": 116,
+      "estimated_event_ends": 0,
+      "legal_candidates": 455,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.602
+    },
+    {
+      "file": "episode-035-Episode 1681368.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 10752,
+          "completion_tokens": 27,
+          "seconds": 3.283417825
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 878,
+          "completion_tokens": 166,
+          "seconds": 2.137630303
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 944,
+          "completion_tokens": 171,
+          "seconds": 2.073524903
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1003,
+          "completion_tokens": 156,
+          "seconds": 1.93049006
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1143,
+          "completion_tokens": 171,
+          "seconds": 2.140865774
+        }
+      ],
+      "episode": "EP035",
+      "events": 72,
+      "estimated_event_ends": 0,
+      "legal_candidates": 241,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.657
+    },
+    {
+      "file": "episode-036-Episode 1681369.txt",
+      "status": "ok",
+      "rejections": {
+        "below_editorial_threshold": 1
+      },
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 8194,
+          "completion_tokens": 27,
+          "seconds": 2.697067056
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1431,
+          "completion_tokens": 149,
+          "seconds": 2.070574154
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1293,
+          "completion_tokens": 160,
+          "seconds": 2.083420607
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1616,
+          "completion_tokens": 152,
+          "seconds": 2.031443665
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2001,
+          "completion_tokens": 148,
+          "seconds": 2.159706579
+        }
+      ],
+      "episode": "EP036",
+      "events": 121,
+      "estimated_event_ends": 0,
+      "legal_candidates": 539,
+      "accepted_before_deduplication": 3,
+      "seconds": 11.137
+    },
+    {
+      "file": "episode-037-Episode 1681370.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 13475,
+          "completion_tokens": 31,
+          "seconds": 4.303592796
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 988,
+          "completion_tokens": 240,
+          "seconds": 3.040606057
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1368,
+          "completion_tokens": 201,
+          "seconds": 2.489845919
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1670,
+          "completion_tokens": 156,
+          "seconds": 2.082562475
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2060,
+          "completion_tokens": 158,
+          "seconds": 2.30896681
+        }
+      ],
+      "episode": "EP037",
+      "events": 79,
+      "estimated_event_ends": 0,
+      "legal_candidates": 322,
+      "accepted_before_deduplication": 4,
+      "seconds": 14.3
+    },
+    {
+      "file": "episode-038-Episode 1681371.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 6682,
+          "completion_tokens": 35,
+          "seconds": 2.126243432
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1167,
+          "completion_tokens": 146,
+          "seconds": 2.014052315
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1276,
+          "completion_tokens": 143,
+          "seconds": 1.904571751
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1107,
+          "completion_tokens": 143,
+          "seconds": 1.835023908
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1216,
+          "completion_tokens": 148,
+          "seconds": 1.900437371
+        }
+      ],
+      "episode": "EP038",
+      "events": 57,
+      "estimated_event_ends": 0,
+      "legal_candidates": 132,
+      "accepted_before_deduplication": 4,
+      "seconds": 9.864
+    },
+    {
+      "file": "episode-039-Episode 1686799.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 7753,
+          "completion_tokens": 35,
+          "seconds": 2.487446679
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1073,
+          "completion_tokens": 136,
+          "seconds": 2.000146084
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1379,
+          "completion_tokens": 159,
+          "seconds": 2.128959607
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1651,
+          "completion_tokens": 147,
+          "seconds": 2.05932259
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2015,
+          "completion_tokens": 151,
+          "seconds": 2.167829576
+        }
+      ],
+      "episode": "EP039",
+      "events": 59,
+      "estimated_event_ends": 0,
+      "legal_candidates": 162,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.948
+    },
+    {
+      "file": "episode-040-Episode 1686800.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 7655,
+          "completion_tokens": 35,
+          "seconds": 2.459610114
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 738,
+          "completion_tokens": 165,
+          "seconds": 2.11938642
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 867,
+          "completion_tokens": 183,
+          "seconds": 2.160493835
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 937,
+          "completion_tokens": 165,
+          "seconds": 1.999714714
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1131,
+          "completion_tokens": 168,
+          "seconds": 2.126550811
+        }
+      ],
+      "episode": "EP040",
+      "events": 51,
+      "estimated_event_ends": 0,
+      "legal_candidates": 170,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.952
+    },
+    {
+      "file": "episode-041-Episode 1686801.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 7806,
+          "completion_tokens": 35,
+          "seconds": 2.428363469
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 904,
+          "completion_tokens": 156,
+          "seconds": 2.005755668
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1228,
+          "completion_tokens": 145,
+          "seconds": 1.90729025
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1569,
+          "completion_tokens": 142,
+          "seconds": 1.943374428
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1650,
+          "completion_tokens": 175,
+          "seconds": 2.306875998
+        }
+      ],
+      "episode": "EP041",
+      "events": 53,
+      "estimated_event_ends": 0,
+      "legal_candidates": 175,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.664
+    },
+    {
+      "file": "episode-042-Episode 1686802.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 5846,
+          "completion_tokens": 35,
+          "seconds": 1.845223712
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 736,
+          "completion_tokens": 187,
+          "seconds": 2.209785161
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 921,
+          "completion_tokens": 187,
+          "seconds": 2.223027516
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1110,
+          "completion_tokens": 145,
+          "seconds": 1.863742628
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1239,
+          "completion_tokens": 160,
+          "seconds": 2.038337603
+        }
+      ],
+      "episode": "EP042",
+      "events": 37,
+      "estimated_event_ends": 0,
+      "legal_candidates": 134,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.255
+    },
+    {
+      "file": "episode-043-Episode 1686803.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 12224,
+          "completion_tokens": 28,
+          "seconds": 4.756451087
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2444,
+          "completion_tokens": 154,
+          "seconds": 2.438935629
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1272,
+          "completion_tokens": 247,
+          "seconds": 3.018507015
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2812,
+          "completion_tokens": 135,
+          "seconds": 2.191942078
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2471,
+          "completion_tokens": 169,
+          "seconds": 2.474644126
+        }
+      ],
+      "episode": "EP043",
+      "events": 87,
+      "estimated_event_ends": 0,
+      "legal_candidates": 277,
+      "accepted_before_deduplication": 4,
+      "seconds": 15.003
+    },
+    {
+      "file": "episode-044-Episode 1686804.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 6008,
+          "completion_tokens": 35,
+          "seconds": 1.997933261
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1519,
+          "completion_tokens": 155,
+          "seconds": 2.245389432
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1352,
+          "completion_tokens": 151,
+          "seconds": 2.037450594
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1143,
+          "completion_tokens": 163,
+          "seconds": 2.148798462
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1302,
+          "completion_tokens": 151,
+          "seconds": 2.005323036
+        }
+      ],
+      "episode": "EP044",
+      "events": 54,
+      "estimated_event_ends": 0,
+      "legal_candidates": 110,
+      "accepted_before_deduplication": 4,
+      "seconds": 10.526
+    },
+    {
+      "file": "episode-045-Episode 1686805.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 10290,
+          "completion_tokens": 30,
+          "seconds": 3.181625581
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1104,
+          "completion_tokens": 161,
+          "seconds": 2.29438817
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1504,
+          "completion_tokens": 172,
+          "seconds": 2.223752906
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1911,
+          "completion_tokens": 177,
+          "seconds": 2.438897148
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 2311,
+          "completion_tokens": 146,
+          "seconds": 2.213334473
+        }
+      ],
+      "episode": "EP045",
+      "events": 74,
+      "estimated_event_ends": 0,
+      "legal_candidates": 223,
+      "accepted_before_deduplication": 4,
+      "seconds": 12.452
+    },
+    {
+      "file": "episode-046-Episode 1688395.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 11064,
+          "completion_tokens": 29,
+          "seconds": 3.422636455
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 855,
+          "completion_tokens": 167,
+          "seconds": 2.356954984
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 908,
+          "completion_tokens": 155,
+          "seconds": 1.88023746
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 914,
+          "completion_tokens": 154,
+          "seconds": 1.904611965
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1265,
+          "completion_tokens": 150,
+          "seconds": 1.94102778
+        }
+      ],
+      "episode": "EP046",
+      "events": 75,
+      "estimated_event_ends": 0,
+      "legal_candidates": 244,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.594
+    },
+    {
+      "file": "episode-047-Episode 1688396.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 10876,
+          "completion_tokens": 35,
+          "seconds": 3.500628949
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1121,
+          "completion_tokens": 145,
+          "seconds": 1.983728908
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1343,
+          "completion_tokens": 138,
+          "seconds": 1.833325726
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1639,
+          "completion_tokens": 157,
+          "seconds": 2.069364291
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1892,
+          "completion_tokens": 159,
+          "seconds": 2.214976518
+        }
+      ],
+      "episode": "EP047",
+      "events": 70,
+      "estimated_event_ends": 0,
+      "legal_candidates": 243,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.685
+    },
+    {
+      "file": "episode-048-Episode 1688397.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 5122,
+          "completion_tokens": 26,
+          "seconds": 1.72492876
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 979,
+          "completion_tokens": 149,
+          "seconds": 1.946571299
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1044,
+          "completion_tokens": 185,
+          "seconds": 2.256261776
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1073,
+          "completion_tokens": 148,
+          "seconds": 1.871079546
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1025,
+          "completion_tokens": 143,
+          "seconds": 1.763951731
+        }
+      ],
+      "episode": "EP048",
+      "events": 43,
+      "estimated_event_ends": 0,
+      "legal_candidates": 98,
+      "accepted_before_deduplication": 4,
+      "seconds": 9.629
+    },
+    {
+      "file": "episode-049-Episode 1688398.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 10663,
+          "completion_tokens": 31,
+          "seconds": 3.313023437
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1546,
+          "completion_tokens": 164,
+          "seconds": 2.273264692
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1790,
+          "completion_tokens": 159,
+          "seconds": 2.178184784
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 860,
+          "completion_tokens": 148,
+          "seconds": 1.833210558
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1042,
+          "completion_tokens": 157,
+          "seconds": 1.940314959
+        }
+      ],
+      "episode": "EP049",
+      "events": 63,
+      "estimated_event_ends": 0,
+      "legal_candidates": 249,
+      "accepted_before_deduplication": 4,
+      "seconds": 11.687
+    },
+    {
+      "file": "episode-050-Episode 1697563.txt",
+      "status": "ok",
+      "rejections": {},
+      "model_calls": [
+        {
+          "stage": "select",
+          "prompt_tokens": 5294,
+          "completion_tokens": 35,
+          "seconds": 1.702610501
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 991,
+          "completion_tokens": 186,
+          "seconds": 2.33332725
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 990,
+          "completion_tokens": 148,
+          "seconds": 1.902749196
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 1056,
+          "completion_tokens": 152,
+          "seconds": 1.913422896
+        },
+        {
+          "stage": "judge",
+          "prompt_tokens": 999,
+          "completion_tokens": 158,
+          "seconds": 1.960909832
+        }
+      ],
+      "episode": "EP050",
+      "events": 40,
+      "estimated_event_ends": 0,
+      "legal_candidates": 107,
+      "accepted_before_deduplication": 4,
+      "seconds": 9.874
+    }
+  ]
+}

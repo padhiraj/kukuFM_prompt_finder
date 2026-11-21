@@ -1,0 +1,302 @@
+[
+  {
+    "episode": "EP001",
+    "start": "00:01:47.500",
+    "end": "00:02:18.000",
+    "duration_seconds": 30.5
+  },
+  {
+    "episode": "EP002",
+    "start": "00:01:19.200",
+    "end": "00:01:50.000",
+    "duration_seconds": 30.8
+  },
+  {
+    "episode": "EP003",
+    "start": "00:01:56.000",
+    "end": "00:02:25.750",
+    "duration_seconds": 29.75
+  },
+  {
+    "episode": "EP004",
+    "start": "00:02:00.500",
+    "end": "00:02:31.400",
+    "duration_seconds": 30.9
+  },
+  {
+    "episode": "EP005",
+    "start": "00:01:20.500",
+    "end": "00:01:50.500",
+    "duration_seconds": 30.0
+  },
+  {
+    "episode": "EP006",
+    "start": "00:01:25.000",
+    "end": "00:01:55.000",
+    "duration_seconds": 30.0
+  },
+  {
+    "episode": "EP007",
+    "start": "00:01:26.500",
+    "end": "00:01:56.000",
+    "duration_seconds": 29.5
+  },
+  {
+    "episode": "EP008",
+    "start": "00:00:48.000",
+    "end": "00:01:18.000",
+    "duration_seconds": 30.0
+  },
+  {
+    "episode": "EP009",
+    "start": "00:01:26.500",
+    "end": "00:01:55.500",
+    "duration_seconds": 29.0
+  },
+  {
+    "episode": "EP010",
+    "start": "00:01:03.900",
+    "end": "00:01:34.000",
+    "duration_seconds": 30.1
+  },
+  {
+    "episode": "EP011",
+    "start": "00:01:21.300",
+    "end": "00:01:52.750",
+    "duration_seconds": 31.45
+  },
+  {
+    "episode": "EP012",
+    "start": "00:00:56.800",
+    "end": "00:01:27.210",
+    "duration_seconds": 30.41
+  },
+  {
+    "episode": "EP013",
+    "start": "00:01:29.000",
+    "end": "00:01:58.880",
+    "duration_seconds": 29.88
+  },
+  {
+    "episode": "EP014",
+    "start": "00:00:58.500",
+    "end": "00:01:27.630",
+    "duration_seconds": 29.13
+  },
+  {
+    "episode": "EP015",
+    "start": "00:00:56.500",
+    "end": "00:01:26.000",
+    "duration_seconds": 29.5
+  },
+  {
+    "episode": "EP016",
+    "start": "00:00:53.200",
+    "end": "00:01:23.190",
+    "duration_seconds": 29.99
+  },
+  {
+    "episode": "EP017",
+    "start": "00:01:30.000",
+    "end": "00:01:58.880",
+    "duration_seconds": 28.88
+  },
+  {
+    "episode": "EP018",
+    "start": "00:02:43.000",
+    "end": "00:03:12.000",
+    "duration_seconds": 29.0
+  },
+  {
+    "episode": "EP019",
+    "start": "00:01:29.500",
+    "end": "00:01:59.630",
+    "duration_seconds": 30.13
+  },
+  {
+    "episode": "EP020",
+    "start": "00:01:24.800",
+    "end": "00:01:54.750",
+    "duration_seconds": 29.95
+  },
+  {
+    "episode": "EP021",
+    "start": "00:01:23.000",
+    "end": "00:01:54.000",
+    "duration_seconds": 31.0
+  },
+  {
+    "episode": "EP022",
+    "start": "00:01:42.000",
+    "end": "00:02:11.000",
+    "duration_seconds": 29.0
+  },
+  {
+    "episode": "EP023",
+    "start": "00:01:40.500",
+    "end": "00:02:11.500",
+    "duration_seconds": 31.0
+  },
+  {
+    "episode": "EP024",
+    "start": "00:01:03.800",
+    "end": "00:01:32.000",
+    "duration_seconds": 28.2
+  },
+  {
+    "episode": "EP025",
+    "start": "00:02:17.400",
+    "end": "00:02:48.000",
+    "duration_seconds": 30.6
+  },
+  {
+    "episode": "EP026",
+    "start": "00:01:30.800",
+    "end": "00:02:00.880",
+    "duration_seconds": 30.08
+  },
+  {
+    "episode": "EP027",
+    "start": "00:02:00.400",
+    "end": "00:02:30.500",
+    "duration_seconds": 30.1
+  },
+  {
+    "episode": "EP028",
+    "start": "00:01:48.100",
+    "end": "00:02:18.500",
+    "duration_seconds": 30.4
+  },
+  {
+    "episode": "EP029",
+    "start": "00:01:26.500",
+    "end": "00:01:56.690",
+    "duration_seconds": 30.19
+  },
+  {
+    "episode": "EP030",
+    "start": "00:02:01.900",
+    "end": "00:02:31.210",
+    "duration_seconds": 29.31
+  },
+  {
+    "episode": "EP031",
+    "start": "00:02:10.800",
+    "end": "00:02:40.000",
+    "duration_seconds": 29.2
+  },
+  {
+    "episode": "EP032",
+    "start": "00:02:05.400",
+    "end": "00:02:34.380",
+    "duration_seconds": 28.98
+  },
+  {
+    "episode": "EP033",
+    "start": "00:02:24.800",
+    "end": "00:02:54.040",
+    "duration_seconds": 29.24
+  },
+  {
+    "episode": "EP034",
+    "start": "00:02:42.000",
+    "end": "00:03:10.000",
+    "duration_seconds": 28.0
+  },
+  {
+    "episode": "EP035",
+    "start": "00:02:06.000",
+    "end": "00:02:37.500",
+    "duration_seconds": 31.5
+  },
+  {
+    "episode": "EP036",
+    "start": "00:02:51.000",
+    "end": "00:03:20.750",
+    "duration_seconds": 29.75
+  },
+  {
+    "episode": "EP037",
+    "start": "00:02:07.000",
+    "end": "00:02:36.470",
+    "duration_seconds": 29.47
+  },
+  {
+    "episode": "EP038",
+    "start": "00:00:57.500",
+    "end": "00:01:27.910",
+    "duration_seconds": 30.41
+  },
+  {
+    "episode": "EP039",
+    "start": "00:01:08.500",
+    "end": "00:01:38.410",
+    "duration_seconds": 29.91
+  },
+  {
+    "episode": "EP040",
+    "start": "00:01:21.000",
+    "end": "00:01:50.080",
+    "duration_seconds": 29.08
+  },
+  {
+    "episode": "EP041",
+    "start": "00:01:04.500",
+    "end": "00:01:36.090",
+    "duration_seconds": 31.59
+  },
+  {
+    "episode": "EP042",
+    "start": "00:00:48.000",
+    "end": "00:01:17.800",
+    "duration_seconds": 29.8
+  },
+  {
+    "episode": "EP043",
+    "start": "00:01:26.000",
+    "end": "00:01:54.960",
+    "duration_seconds": 28.96
+  },
+  {
+    "episode": "EP044",
+    "start": "00:00:41.200",
+    "end": "00:01:10.500",
+    "duration_seconds": 29.3
+  },
+  {
+    "episode": "EP045",
+    "start": "00:01:33.000",
+    "end": "00:02:01.750",
+    "duration_seconds": 28.75
+  },
+  {
+    "episode": "EP046",
+    "start": "00:01:52.000",
+    "end": "00:02:23.880",
+    "duration_seconds": 31.88
+  },
+  {
+    "episode": "EP047",
+    "start": "00:01:44.800",
+    "end": "00:02:14.000",
+    "duration_seconds": 29.2
+  },
+  {
+    "episode": "EP048",
+    "start": "00:00:51.500",
+    "end": "00:01:20.000",
+    "duration_seconds": 28.5
+  },
+  {
+    "episode": "EP049",
+    "start": "00:01:53.200",
+    "end": "00:02:24.750",
+    "duration_seconds": 31.55
+  },
+  {
+    "episode": "EP050",
+    "start": "00:00:49.800",
+    "end": "00:01:20.000",
+    "duration_seconds": 30.2
+  }
+]
