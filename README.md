@@ -14,8 +14,7 @@ python find_promos.py --input examples/scripts --engine rules --out demo --expec
 python -m unittest -v
 ```
 
-The keyword engine is a baseline and smoke test. Use the Ollama engine below
-for the paper-inspired method. The bundled demo output comes from the keyword
+The keyword engine is a baseline and smoke test.The bundled demo output comes from the keyword
 engine. It intentionally includes a bad pick: EP03 treats a routine question
 about a bus as a cliffhanger. The hook is clear, but the cut leaves no meaningful
 question about the firing. The test suite exercises local HTTP requests with
